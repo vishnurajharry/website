@@ -1,0 +1,79 @@
+<menu>
+	<category type = "pizzas">
+		<item id = 'pizzas' no = '1'>
+			<name>tomato and cheese</name>
+			<cost>$5.95</cost>
+			
+		</item>
+		<item id ='pizzas' no = '2'>
+			<name>brocolli</name>
+			<cost>$6.75</cost>
+		</item>
+		<item id ='pizzas' no = '3'>
+			<name>mushroom</name>
+			<cost>$7.45</cost>
+		</item>
+	</category>
+	<category type = "breads">
+		<item id = 'breads' no = '1'>
+			<name>hotdogs</name>
+			<cost>$6.95</cost>
+		</item>
+		<item id ='breads' no = '2'>
+			<name>burgers</name>
+			<cost>$9.75</cost>
+		</item>
+		<item id ='breads' no = '3'>
+			<name>samoosa</name>
+			<cost>$7.85</cost>
+		</item>
+	</category>
+	<category type = "special dinners">
+		<item id = 'special dinners' no = '1'>
+			<name>Chicken Wing Dinner</name>
+			<cost>$7.95</cost>
+		</item>
+		<item id ='special dinners' no = '2'>
+			<name>Gyro Plate</name>
+			<cost>$7.75</cost>
+		</item>
+		<item id ='special dinners' no = '3'>
+			<name>Chicken Finger Plate</name>
+			<cost>$7.85</cost>
+		</item>
+	</category>
+	<category type = "spagetti or Zitti">
+		<item id = 'spagetti or Zitti' no = '1'>
+			<name>With Sauce</name>
+			<cost>$7.95</cost>
+		</item>
+		<item id ='spagetti or Zitti' no = '2'>
+			<name>With Meatball</name>
+			<cost>$7.75</cost>
+		</item>
+		<item id ='spagetti or Zitti' no = '3'>
+			<name>A La Three Aces</name>
+			<cost>$7.85</cost>
+		</item>
+	</category>
+		<category type = "Wraps">
+		<item id = 'Wraps' no = '1'>
+			<name>Turkey Club Wrap</name>
+			<cost>$7.95</cost>
+		</item>
+		<item id ='Wraps' no = '2'>
+			<name>Chicken Cobb</name>
+			<cost>$4.75</cost>
+		</item>
+		<item id ='Wraps' no = '3'>
+			<name>Greek Supreme</name>
+			<cost>$5.85</cost>
+		</item>
+		<item id ='Wraps' no = '4'>
+			<name>Crispy Chicken</name>
+			<cost>$3.85</cost>
+		</item>
+	</category>
+	
+</menu>		
+
